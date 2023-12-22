@@ -1,0 +1,1 @@
+This repository hosts all the coding work I completed for the AI course at university. It includes both projects and homework assignments, focusing on building AI algorithms such as decision trees, genetic algorithms, and local search techniques from the ground up.
